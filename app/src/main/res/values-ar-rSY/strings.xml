@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings in the main activity -->
+    <string name="app_name">Cloud Anchor Example</string>
+    <string name="cancel">إلغاء</string>
+    <string name="host_button_text">إستضافة</string>
+    <string name="host_dialog_title">إستضافة نقطة جديدة</string>
+    <string name="host_ok">إستضافة</string>
+    <string name="initial_room_code">0000</string>
+    <string name="resolve_button_text">عرض</string>
+
+
+    <!-- Strings in the Resolve Dialog Box -->
+    <string name="resolve_dialog_ok">عرض</string>
+    <string name="resolve_dialog_title">عرض نقطة</string>
+    <string name="resolve_dialog_text_hint">أدخل رقم الغرفة</string>
+    <!-- Strings used in Snackbar messages -->
+    <string name="snackbar_anchor_placed">جاري إسضافة النقطة...</string>
+    <string name="snackbar_arcore_unavailable">الرجال تنزيل ARCore</string>
+    <string name="snackbar_arcore_too_old">الرجاء تحديث ARCore</string>
+    <string name="snackbar_arcore_sdk_too_old">الرجاء تحديث نسخة ARCore الخاصة بك</string>
+    <string name="snackbar_arcore_exception">جهازك لا يدعم ARCore</string>
+    <string name="snackbar_camera_unavailable">لا يمكن الوصول للكاميرا, الرجاء إعادة تشغيل التطبيق</string>
+    <string name="snackbar_cloud_id_shared">تمت مشاركة رمز المحتوى عبر Firebase</string>
+    <string name="snackbar_dismiss">ألغاء</string>
+    <string name="snackbar_firebase_error">"حدثت مشكلة في قاعدة بيانات الFirebas "</string>
+    <string name="snackbar_host_error">حدثت مشكلة اثناء الإستضافة</string>
+    <string name="snackbar_initial_message">الرجاء إختيار إستضافة او عرض من أجل المتابعة</string>
+    <string name="snackbar_on_host">وضع الإستضافة. للخروج, إضغط إلغاء</string>
+    <string name="snackbar_on_resolve">وضع العرض. للخروج, إضغط إلغاء</string>
+    <string name="snackbar_resolve_error">حدث عطل اثناء محاولة عرض النقطة</string>
+    <string name="snackbar_resolve_success">تم عرض المحتوى بنجاح</string>
+    <string name="snackbar_room_code_available">رمز الغرفة متاح! الرجاء اختيار نقاط الإستضافة</string>
+    <!-- Resolve anchor has no result yet. [CHAR_LIMIT=NONE] -->
+    <string name="snackbar_resolve_no_result_yet">محاولة العرض. الرجاء توجيه الجهاز نحو مكان إستضافة النقطة. إذا لم تظهر النقطة, الرجال إغلاق التطبيق وإعادة فتحه</string>
+
+    <!-- Strings used in privacy notice dialog messages. [CHAR_LIMIT=NONE] -->
+    <string name="share_experience_title">شاركها مع الآخرين</string>
+    <!-- Privacy notice message. [CHAR_LIMIT=NONE] -->
+    <string name="share_experience_message">من أجل استخدام هذه الخاصية, غوغل ستقوم بعمل فحص بيانات بإستخدام الكاميرا الخاصة بك</string>
+    <!-- Privacy notice accept. [CHAR_LIMIT=NONE] -->
+    <string name="agree_to_share">إبدأ</string>
+    <!-- Privacy notice learn more. [CHAR_LIMIT=NONE] -->
+    <string name="learn_more">المزيد</string>
+    <!-- Cloud anchor privacy website. [CHAR_LIMIT=NONE] -->
+
+
+
+
+
+</resources>
